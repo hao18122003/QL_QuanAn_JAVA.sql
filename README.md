@@ -1,1 +1,2 @@
-# QL_QuanAn_JAVA.sql
+# Công nghệ phần mềm 
+# Nhóm 10
